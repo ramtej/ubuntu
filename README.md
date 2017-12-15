@@ -20,6 +20,8 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for 
 
     docker run -it --rm schedulix/ubuntu
     
-docker>virtualenv --no-site-packages Zope
+docker>virtualenv --no-site-packages Zope 
+
 docker>easy_install -U pip
+
 docker>pip install -r https://raw.githubusercontent.com/zopefoundation/Zope/2.13.26/requirements.txt
