@@ -1,4 +1,4 @@
-## Ubuntu Dockerfile to reproduce Schedulix / Zope issues (https://mail.google.com/mail/u/0/#inbox/16059981ebe6c784)
+## Ubuntu Dockerfile to reproduce Schedulix / Zope issues https://groups.google.com/forum/#!category-topic/schedulix/bug-reports/-K61Tr5HRPk)
 
 
 This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/ubuntu/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
